@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "環境と心理",
+  "base_artist": "METAFIVE (高橋幸宏 × 小山田圭吾 × 砂原良徳 × TOWA TEI × ゴンドウトモヒコ × LEO今井)",
+  "createdAt": "2026-02-14T20:33:55.031834Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "環境と心理",
+      "artist": "METAFIVE (高橋幸宏 × 小山田圭吾 × 砂原良徳 × TOWA TEI × ゴンドウトモヒコ × LEO今井)",
+      "has_synced": false,
+      "path": "select/pl_01_環境と心理_METAFIVE_(高橋幸宏_×_小山田圭吾_×_砂原良徳_×_TOWA_TEI_×_ゴンドウトモヒコ_×_LEO今井).txt"
+    }
+  ]
+}
